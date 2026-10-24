@@ -1,1 +1,8 @@
 hlo everyone , i hpoe you all are doing well 
+so here we start git 
+today what i did is , directly checked git branch , without commiting any changes to file , 
+so starts with git init , than there is file where we have to make changes to , then we have to commit those change , after committing we will get master branch , then after this we can make new branches 
+1st - use git status 
+2nd - use git add 
+3rd - use git commit -m "msg to given"
+4th - use git status to check commit
