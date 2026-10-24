@@ -7,3 +7,4 @@ so starts with git init , than there is file where we have to make changes to , 
 3rd - use git commit -m "msg to given"
 4th - use git status to check commit
 its not end 
+hlo its feature1 branch 
